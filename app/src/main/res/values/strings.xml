@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyFirstAndroidApp</string>
+
+    <!-- MainActivity -->
+    <string name="main_name_edit_text">姓名</string>
+    <string name="main_confirm_button_title">确定</string>
+    <string name="main_push_button_title">下一页</string>
+    <string name="to">发送给？</string>
+    <string name="subject">邮件主题</string>
+    <string name="message">邮件内容？</string>
+    <string name="send">发送</string>
+    <string name="reminder">提醒</string>
+    <string name="done">完成</string>
+    <string name="asyn_test">asyn_test</string>
+    <string name="textview">TextView</string>
+
+    <!-- DisplayMessageActivity -->
+
+</resources>
